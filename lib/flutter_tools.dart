@@ -1,7 +1,7 @@
-library common_tools;
+library flutter_tools;
 
 class LogUtil {
-  static const String _TAG_DEF = "###common_utils###";
+  static const String _TAG_DEF = "###flutter_utils###";
 
   static bool debuggable = false; //是否是debug模式,true: log v 不输出.
   static String tAG = _TAG_DEF;

@@ -1,8 +1,8 @@
-name: common_tools
-description: A new Flutter Tools package.
+name: flutter_tools
+description: A new Flutter Tools package. it works on ios and android
 version: 0.0.1
-author:
-homepage:
+author: MarkCHYL <2285581945@qq.com>
+homepage: https://github.com/MarkCHYL/flutter_tools
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
